@@ -1,0 +1,11 @@
+.add-plant {
+    border: 0.5px;
+    border-radius: 3px;
+    background-color: #9b7653;
+    color: brown;
+    line-height: 26px;
+}
+
+.add-plant:hover {
+    color: lightgreen;
+}
